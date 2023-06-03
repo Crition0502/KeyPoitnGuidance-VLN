@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "bitset": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp",
+        "chrono": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "string": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "map": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/robot/test_ws/build/catkin_generated/metapackages/iai_kinect2"
+}

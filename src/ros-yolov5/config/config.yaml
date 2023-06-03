@@ -1,0 +1,6 @@
+yolov5:
+  action: False
+  #  path: /home/ou/Desktop/yolov5
+  weight: /home/robot/ros_ws/src/ros-yolov5/model/best.pt
+  device: cpu
+  img_size: 640
